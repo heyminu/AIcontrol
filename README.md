@@ -12,4 +12,4 @@ __아주 두껍죠__
 
 [__여기는 깃허브입니다__](https://github.com/)
 
-![포켓몬](https://m.blog.naver.com/3456789asdf/221716977569?view=img_2)
+
