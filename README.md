@@ -6,6 +6,6 @@
 
 __아주 두껍죠__ 
 
-_그리고 기울어져있어요_
+>>>>_그리고 기울어져있어요_
 
-
+[여기](https://github.com/heyminu/AIcontrol/)
