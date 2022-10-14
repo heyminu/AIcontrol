@@ -33,7 +33,7 @@ __아주 두껍죠__
 
 ~~감사합니다~~
 
-[네이버](htttps://www.naver.co.kr)
+[네이버](htttps://www.naver.com)
 
 
 [구글](https://www.google.co.kr)
