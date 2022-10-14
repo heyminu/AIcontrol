@@ -10,7 +10,7 @@ __아주 두껍죠__
 
 [여기는 heyminu의 깃허브입니다](https://github.com/heyminu/AIcontrol/)
 
-[__여기는 깃허브입니다__](https://github.com/)
+>[__여기는 깃허브입니다__](https://github.com/)
 
 |내 이름은| 이민우| 이다. |
 |---|---|---|
