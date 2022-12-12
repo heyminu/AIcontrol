@@ -1,3 +1,5 @@
+[3조 시연 영상입니다](https://youtu.be/xQRqn1HXYc8)
+
 #AIcontrol
 
 > __안녕__ _하세요_
